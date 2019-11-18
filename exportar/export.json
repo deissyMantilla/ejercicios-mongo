@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5d935c4ec279d771e74383c1"}}
+{"_id":{"$oid":"5d935c5fc279d771e74383c2"},"name":"Taylor Swifth","genero":"pop","numero":20.0,"letra":"B"}
+{"_id":{"$oid":"5d935d1fc279d771e74383c3"},"name":"Morat","genero":"pop balcanico","numero":"3","letra":"C"}
+{"_id":{"$oid":"5d935d7bc279d771e74383c4"},"name":"Shakira","genero":"pop","numero":20.0,"letra":"D"}
+{"_id":{"$oid":"5d9362e5c279d771e74383c5"},"nombre":"Cepeda","genero":"pop","numero":20.0,"letra":"E"}
+{"_id":{"$oid":"5d9362e5c279d771e74383c6"},"nombre":"Carlos Andres Vives","genero":"pop latino","numero":6.0,"letra":"F"}
+{"_id":{"$oid":"5d94aa225bf36181df7f4300"},"name":"Deissy","Apellido":"Mantilla"}

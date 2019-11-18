@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"musicaAm.artistas"}],"uuid":"22611d7f8fde4c8884b8de2f4e0eb1cd"}

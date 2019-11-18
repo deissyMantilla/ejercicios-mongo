@@ -1,0 +1,16 @@
+Importar un documento a una coleccion de una base de datos
+:
+
+en una consola de windows CMD se hace lo siguiente
+
+cd C:\Program Files\MongoDB\Server\4.2\bin //para ir a la carpeta donde estan guardadas las bases de datos
+
+mongoimport.exe --db musicaAm --collection artistas D:\Deissy\AM\EjerciciosMongo\importar\prueba.json
+//para importar una collection de una base de datos
+
+para hacer un backup de la base de datos:
+ mongodump.exe --db musicaAm --out D:\Deissy\AM\EjerciciosMongo\backupDB
+
+
+para importar un backup a mongo 
+mongorestore.exe --db nombreQueSeLeVaAPonerALaDB D:\Deissy\AM\EjerciciosMongo\backupDB\musicaAm-->ruta donde esta el backup
